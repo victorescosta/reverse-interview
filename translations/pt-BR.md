@@ -89,7 +89,7 @@ Ter um sistema de monitoramento de bugs não traz necessariamente um melhor trat
 
 - Qual é a relação de trabalhadores remotos com os presenciais?
 - A companhia fornece equipamentos como notebooks, se sim qual e de quanto em quanto tempo são renovados?
-- Acessórios e mobílias extras são possíveis de comprar através da empresa? Existe algum orçamento planejado para eles?
+- Acessórios e mobílias extras são possíveis de comprar através da empresa? Existe algum orçamento planejado para isso?
 - Existe algum orçamento para espaços de co-working ou acesso a internet?
 - Quão frequente são esperadas visitas a empresa?
 - As salas de reunião estão sempre prontas para videoconferência?
